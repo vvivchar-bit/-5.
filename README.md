@@ -12,19 +12,19 @@
 
 ## Файли репозиторію
 
-- [Tema5.cpp](Tema5.cpp) — шаблонна функція
-- [Tema5.vcxproj](Tema5.vcxproj)
-- [Tema5.vcxproj.filters](Tema5.vcxproj.filters)
+- 5.1.cpp — шаблонний клас PointN
+- 5.1.vcxproj
+- 5.1.vcxproj.filters
 
-- [5.1.cpp](5.1.cpp) — шаблонний клас PointN
-- [5.1.vcxproj](5.1.vcxproj)
-- [5.1.vcxproj.filters](5.1.vcxproj.filters)
+- Tema5.cpp — шаблонна функція
+- Tema5.vcxproj
+- Tema5.vcxproj.filters
 
-- [Tema5.2.cpp](Tema5.2.cpp) — використання string і vector
-- [Tema5.2.vcxproj](Tema5.2.vcxproj)
-- [Tema5.2.vcxproj.filters](Tema5.2.vcxproj.filters)
+- Tema5.2.cpp — використання string і vector
+- Tema5.2.vcxproj
+- Tema5.2.vcxproj.filters
 
-- [Tema5.pdf](Tema5.pdf) — звіт
+- Tema5.pdf — звіт
 
 ## Короткий опис
 У репозиторії подано матеріали до теми 5 з дисципліни «Об’єктно-орієнтоване програмування».
@@ -42,3 +42,4 @@
 
 ## Висновок
 Шаблони в C++ є основним засобом реалізації параметричного поліморфізму та дають змогу створювати універсальний код для різних типів даних без дублювання логіки.
+
